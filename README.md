@@ -160,10 +160,6 @@ This two-round approach validated that our final models make predictions based o
   - Tenure-based retention opportunities  
 - **Operational Readiness**: Designed model outputs to integrate directly with HRIS systems for real-time risk alerts  
 
-<br><br>
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/y2Rb2L6/Phases4-6.jpg" alt="Phase4_6"> </div>
-<br><br>
-
 This end-to-end solution transforms raw employee data into strategic retention opportunities, enabling Salifort Motors to proactively address turnover risks while maintaining ethical AI standards. The combination of robust analytics and actionable business intelligence creates a new capability for data-driven workforce management.
 
 ## **Future Work**  
