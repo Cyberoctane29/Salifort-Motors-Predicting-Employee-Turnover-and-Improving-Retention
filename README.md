@@ -154,7 +154,7 @@ This two-round approach validated that our final models make predictions based o
 4. **Departmental trends (HR highest attrition)**  
 
 ## **Project Highlights**  
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/ycBZr552/stages.png" alt="AllPhases"> </div>
+<img align=middle src="https://i.ibb.co/ycBZr552/stages.png" alt="AllPhases">
 <br><br>
 
 - **Comprehensive Workforce Analysis**: Uncovered critical attrition patterns including the "4-year slump" in employee satisfaction and the 7-project burnout threshold  
