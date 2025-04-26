@@ -10,14 +10,14 @@ For clarity and easier navigation on GitHub, the project is divided into **two l
 
   [View Part 1 Notebook](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Project%20Parts/Salifort_Motors_Turnover_Part1_Plan_and_Analyze_Includes_EDA.ipynb)  
 <br><br>
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/hJSFddK6/stages-part1.png" alt="Phase4_6"> </div>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/VYJfmS7j/stages-part1.png" alt="Phase4_6"> </div>
 <br><br>
 
 - **[Part 2 – Construct and Execute Stages](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Project%20Parts/Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb):** This notebook transitions to **predictive modeling**, comparing logistic regression with tree-based models (decision trees and random forests) to select the best-performing solution for turnover prediction.  
 
   [View Part 2 Notebook](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Project%20Parts/Salifort_Motors_Turnover_Part2_Construct_and_Execute_Includes_Modeling.ipynb)  
 <br><br>
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/pBTngP0w/stages-part2.png" alt="Phase4_6"> </div>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/6RGnnC6c/stages-part2.png" alt="Phase4_6"> </div>
 <br><br> 
 
 For a complete and consolidated view of both parts in a single notebook, check out the project on [Kaggle](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling) or [Github](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok%20_Claims_Classification_End_to_End_Analysis_and_Modeling.ipynb)
@@ -154,8 +154,9 @@ This two-round approach validated that our final models make predictions based o
 4. **Departmental trends (HR highest attrition)**  
 
 ## **Project Highlights**  
-<img align=middle src="https://i.ibb.co/ycBZr552/stages.png" alt="AllPhases">
 <br><br>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/9m97dQF5/stages.png" alt="Phase4_6"> </div>
+<br><br> 
 
 - **Comprehensive Workforce Analysis**: Uncovered critical attrition patterns including the "4-year slump" in employee satisfaction and the 7-project burnout threshold  
 - **High-Performance Predictive Model**: Developed a Random Forest classifier with **90.4% recall** for at-risk employees while maintaining **87% precision**  
