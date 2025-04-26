@@ -155,7 +155,7 @@ This two-round approach validated that our final models make predictions based o
 
 ## **Project Highlights**  
 <br><br>
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/9m97dQF5/stages.png" alt="Phase4_6"> </div>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/9m97dQF5/stages.png" alt="AllStages"> </div>
 <br><br> 
 
 - **Comprehensive Workforce Analysis**: Uncovered critical attrition patterns including the "4-year slump" in employee satisfaction and the 7-project burnout threshold  
