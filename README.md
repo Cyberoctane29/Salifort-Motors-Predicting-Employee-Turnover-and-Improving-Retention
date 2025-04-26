@@ -20,11 +20,11 @@ For clarity and easier navigation on GitHub, the project is divided into **two l
 <div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/6RGnnC6c/stages-part2.png" alt="Phase4_6"> </div>
 <br><br> 
 
-For a complete and consolidated view of both parts in a single notebook, check out the project on [Kaggle](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling) or [Github](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok%20_Claims_Classification_End_to_End_Analysis_and_Modeling.ipynb)
+For a complete and consolidated view of both parts in a single notebook, check out the project on [Kaggle](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling) or [Github](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Salifort_Motors_Predicting_Employee_Turnover_and_Improving_Retention.ipynb)
 
  [View Kaggle Notebook](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling)
 
-[View Github Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok%20_Claims_Classification_End_to_End_Analysis_and_Modeling.ipynb)
+[View Github Notebook](https://github.com/Cyberoctane29/Salifort-Motors-Predicting-Employee-Turnover-and-Improving-Retention/blob/main/Salifort_Motors_Predicting_Employee_Turnover_and_Improving_Retention.ipynb)
 
 ## **Project Overview**
 
