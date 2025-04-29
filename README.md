@@ -1,4 +1,4 @@
-# **Salifort Motors: Predicting Employee Turnover and Improving Retention**  
+# **Salifort Motors Predicting Employee Turnover and Improving Retention: Analysis and Modeling**  
 
 This project explores how employee-related factors such as workload, satisfaction, tenure, and promotions influence the likelihood of employee attrition at Salifort Motors, a leading alternative energy vehicle manufacturer, using machine learning in Python. By analyzing relationships between these factors and attrition outcomes, I built predictive models including logistic regression, decision trees, and random forests to identify employees at risk of leaving and support proactive HR interventions. The goal is to provide data-driven insights that enhance retention strategies and reduce attrition costs. The project leverages Python libraries like pandas, scikit-learn, and matplotlib for data analysis, predictive modeling, and visualization.
 
